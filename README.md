@@ -4,6 +4,7 @@
 npm init
 npm install webpack-cli --svae-dev
 npm run build
+npm run live
 
 npm i --save-dev style-loader css-loader
 
